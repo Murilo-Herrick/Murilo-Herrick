@@ -27,8 +27,10 @@
 
 ---
 
-🔗 Vamos nos conectar:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-herrick-571a93334/)
+🔗 Contato:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-herrick-571a93334/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/murilo.hrk)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:muriloherrick@gmail.com)
 
 <!--
 Murilo-Herrick/Murilo-Herrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
