@@ -8,13 +8,8 @@
 
 ### 🛠️ Ferramentas e Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/Murilo-Herrick">
-    <img src="https://skillicons.dev/icons?i=java,python,flutter,dart,docker,firebase,gcp,git,github,spring,html,css,javascript,mysql,sqlite,react" alt="My Skills" />
-  </a>
-</div>
-
-
+[![My Skills](https://skillicons.dev/icons?i=java,python,flutter,dart,docker,firebase,gcp)](https://github.com/Murilo-Herrick)
+[![My Skills](https://skillicons.dev/icons?i=git,github,spring,html,css,javascript,mysql,sqlite,react)](https://github.com/Murilo-Herrick)
 
 ---
 
