@@ -8,7 +8,7 @@
 
 ### 🛠️ Ferramentas e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,flutter,dart,docker,firebase,gcp,git,github,html,css,javascript,mysql,sqlite,react)](https://github.com/Murilo-Herrick)
+[![My Skills](https://skillicons.dev/icons?i=java,python,flutter,dart,docker,firebase,gcp,git,github,spring,html,css,javascript,mysql,sqlite,react)](https://github.com/Murilo-Herrick)
 
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-🔗 Contato: 
+# 🔗 Contato: 
 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilo-herrick-571a93334/)
