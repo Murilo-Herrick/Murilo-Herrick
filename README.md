@@ -8,9 +8,7 @@
 
 ### 🛠️ Ferramentas e Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=java,python,flutter,dart&theme=dark)  
-![My Skills](https://skillicons.dev/icons?i=docker,firebase,gcp,git,github&theme=dark)  
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mysql,sqlite,react&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,python,flutter,dart&theme=dark)  ![My Skills](https://skillicons.dev/icons?i=docker,firebase,gcp,git,github&theme=dark)  ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mysql,sqlite,react&theme=dark)
 
 
 ---
