@@ -40,6 +40,9 @@
   </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark)
 <!--
 Murilo-Herrick/Murilo-Herrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
