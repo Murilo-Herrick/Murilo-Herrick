@@ -23,11 +23,13 @@
 
 # 🔗 Contato: 
 
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilo-herrick-571a93334/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/murilo.hrk)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=muriloherrick@gmail.com)
-
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilo-herrick-571a93334/)
+  &nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/murilo.hrk)
+  &nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=muriloherrick@gmail.com)
+</p>
 <!--
 Murilo-Herrick/Murilo-Herrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
