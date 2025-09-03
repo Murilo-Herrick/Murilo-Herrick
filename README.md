@@ -1,8 +1,8 @@
 # 👋 Olá, me chamo Murilo
 
-🎓 Estudante na **Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**
+Estudante na **Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**
 
-💻 Atualmente atuo como **Estagiário em Desenvolvimento de Softwares** na **Agrorobótica**  
+Atualmente atuo como **Estagiário em Desenvolvimento de Softwares** na **Agrorobótica**  
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-# 🔗 Contato: 
+# Contato: 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilo-herrick-571a93334/)
 &nbsp;
