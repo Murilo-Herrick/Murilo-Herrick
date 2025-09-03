@@ -13,7 +13,7 @@
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 25px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark" />
 </div>
