@@ -12,10 +12,11 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,spring,html,css,mysql,sqlite,react)](https://github.com/Murilo-Herrick)
 
 ---
-<div style="display: flex; justify-content: center; gap: 10px;">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark)
-</div>
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark" />
+</div>
 
 ---
 
