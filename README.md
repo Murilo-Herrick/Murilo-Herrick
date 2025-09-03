@@ -13,7 +13,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark)      <p style="margin-left: 5px">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark)</p> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark)      <p style="padding-left: 5px">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark)</p> 
 
 ---
 
