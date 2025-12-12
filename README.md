@@ -13,13 +13,11 @@ Atualmente atuo como **Estagiário em Desenvolvimento de Softwares** na **Agroro
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 ---
 
