@@ -2,7 +2,7 @@
 
 Estudante na **Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**
 
-Atualmente atuo como **Estagiário em Desenvolvimento de Softwares** na **Agrorobótica**  
+Atualmente atuo como **Desenvolvedor de Software** na **Agrorobótica**  
 
 ---
 
