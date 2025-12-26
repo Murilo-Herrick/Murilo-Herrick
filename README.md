@@ -15,8 +15,11 @@ Atualmente atuo como **Desenvolvedor de Software** na **Agrorobótica**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-Herrick&theme=dark" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/lowlighter/metrics/blob/master/github-metrics.svg" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Murilo-Herrick/Murilo-Herrick" />
+  <img src="https://img.shields.io/github/commit-activity/y/Murilo-Herrick/Murilo-Herrick" />
 </p>
 
 ---
