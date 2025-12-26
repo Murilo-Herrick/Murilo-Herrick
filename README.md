@@ -14,12 +14,9 @@ Atualmente atuo como **Desenvolvedor de Software** na **Agrorobótica**
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-Herrick&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Murilo-Herrick/Murilo-Herrick" />
-  <img src="https://img.shields.io/github/commit-activity/y/Murilo-Herrick/Murilo-Herrick" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murilo-Herrick&show_icons=true&theme=dark" alt="GitHub Stats" /> 
+  &nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Herrick&layout=compact&theme=dark" alt="Top Langs" /> 
 </p>
 
 ---
