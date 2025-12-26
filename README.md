@@ -8,7 +8,7 @@ Atualmente atuo como **Desenvolvedor de Software** na **Agrorobótica**
 
 ### 🛠️ Ferramentas e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,flutter,dart,docker,firebase,gcp,git,github,spring,react,html,css,mysql,sqlite&perline=14)](https://github.com/Murilo-Herrick)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,flutter,dart,docker,firebase,gcp,git,github,spring,react,html,css,mysql,sqlite&perline=16)](https://github.com/Murilo-Herrick)
 
 ---
 
