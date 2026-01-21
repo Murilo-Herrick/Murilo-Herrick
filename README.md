@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Murilo
 
-Estudante na **Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**
+🎓 ADS - **Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe**
 
 Atualmente atuo como **Desenvolvedor de Software** na **Agrorobótica**  
 
